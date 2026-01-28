@@ -30,9 +30,9 @@
 - Approval process: TBD
 
 ## Timeline
-- **Weekly meeting time:** Fridays at 6 PM (timezone TBD)
+- **Weekly meeting time:** Fridays at 6 PM EST
 - **Paper draft date (if relevant):** 2026-04-27
-- **Paper deadline (per updates sheet):** January 16 (year TBD)
+- **Paper deadline (per updates sheet):** 2027-01-16
 
 ### Primary Milestones
 | Milestone | Description | Date |
