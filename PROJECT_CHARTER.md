@@ -1,43 +1,46 @@
-# Project Charter — <Project Name>
+# Project Charter — Vie
 
 ## Contributors
-- **Project Lead:** <Name>
-- **Primary Contributors:** <Names>
-- **Secondary Contributors:** <Names or N/A>
+- **Project Lead:** Asher Wheatle, Dean Chou
+- **Primary Contributors:** Asher Wheatle, Dean Chou, Bakari Kerr, Krish Saluja, Raul Valle
+- **Secondary Contributors:** @sauucy (Discord)
 
 ## Definition
-- **Research / Product Question:** <Question>
-- **Claim / Hypothesis:** <Claim>
-- **Novelty:** <What is new?>
-- **Target Venue / Deliverable Context:** <e.g., ICASSP / demo / internal tool>
+- **Research / Product Question:** Can we create a real time system that perceives the dynamic entities in a scene?
+- **Claim / Hypothesis:** We can create a real time machine learning system that perceives dynamic and static objects in a scene.
+- **Novelty:** Implement human cognitive perception to emulate human eyesight (with a path to Meta glasses integration).
+- **Target Venue / Deliverable Context:** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - **Expected Artifacts:**
-  - <Artifact 1>
-  - <Artifact 2>
-  - <Artifact 3>
+  - Paper
+  - Code repository
+  - Working demo
 
 ## Delegation (initial)
 | Workstream | Owner(s) | Output | Due |
 |---|---|---|---|
-| Literature review | <Name(s)> | <Paper summary + key baselines> | <Date> |
-| SoTA baselines | <Name(s)> | <Reproducible runs + metrics> | <Date> |
-| Data / hardware | <Name(s)> | <BOM + capture protocol + first dataset> | <Date> |
+| Research SOTA | Raul Valle | Paper summary + key baselines | TBD |
+| Data Engineering (SAM v3 on Hipergator + data transfer) | Asher Wheatle, Dean Chou | Reproducible data pipeline | TBD |
+| Machine Learning Design (model research + implementation) | Bakari Kerr, Taher | Initial model design + training code | TBD |
+| Deployable Demo (web or physical system) | Raul Valle, Taher, Bakari Kerr, Asher Wheatle | Demo prototype | TBD |
 
 ## Funding Use
-- Budget: <TBD>
-- What we will buy: <TBD>
-- Approval process: <how to approve spend>
+- Budget: TBD
+- What we will buy: Decent-quality camera/webcam
+- Other expenses: Publication fees (if applicable)
+- Approval process: TBD
 
 ## Timeline
-- **Weekly meeting time:** <Day, time, timezone>
-- **Paper draft date (if relevant):** <Date>
+- **Weekly meeting time:** Fridays at 6 PM (timezone TBD)
+- **Paper draft date (if relevant):** 2026-04-27
+- **Paper deadline (per updates sheet):** January 16 (year TBD)
 
 ### Primary Milestones
 | Milestone | Description | Date |
 |---|---|---|
-| M1 | <Description> | <Date> |
-| M2 | <Description> | <Date> |
-| M3 | <Description> | <Date> |
-| M4 | <Optional> | <Optional> |
+| M1 | Implement SAM v3 on toy dataset + find larger datasets | 2026-01-31 |
+| M2 | Create annotations + initial model design | 2026-03-16 |
+| M3 | Trained model + demo | 2026-04-19 |
+| M4 | TBD | TBD |
 
 ## Definition of Done (DoD)
 A milestone is “done” when:
