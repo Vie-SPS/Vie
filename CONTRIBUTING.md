@@ -30,3 +30,4 @@
 ## Reproducibility (research-heavy projects)
 - Log: dataset version, commit hash, hyperparams, metrics, hardware
 - Store experiment summaries in `docs/experiments/`
+- Store reference materials in `docs/REFERENCE/`
