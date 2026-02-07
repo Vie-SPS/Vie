@@ -1,8 +1,18 @@
-# <Project Name>
+# Vie
+
+<p align="center">
+  <img src="docs/REFERENCE/Vie_Icon.png" alt="Vie Icon" width="180" />
+</p>
 
 One-liner: what this project builds and why it matters.
 
 ![mendean](https://github.com/user-attachments/assets/927c4878-c889-40e4-b10c-98f9a95e4af0)
+
+## Team
+
+<p align="center">
+  <img src="docs/REFERENCE/Vie_Team.jpg" alt="Vie Team" width="720" />
+</p>
 
 ## Quick Links
 - Project Charter: [PROJECT_CHARTER.md](PROJECT_CHARTER.md)
