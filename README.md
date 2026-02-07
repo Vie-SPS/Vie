@@ -4,7 +4,7 @@
   <img src="docs/REFERENCE/Vie_Icon.png" alt="Vie Icon" width="180" />
 </p>
 
-One-liner: what this project builds and why it matters.
+Vie builds biologically plausible video scene analysis systems that learn and reason from real-world dynamics.
 
 ## Team
 
