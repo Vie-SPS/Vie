@@ -6,8 +6,6 @@
 
 One-liner: what this project builds and why it matters.
 
-![mendean](https://github.com/user-attachments/assets/927c4878-c889-40e4-b10c-98f9a95e4af0)
-
 ## Team
 
 <p align="center">
